@@ -1,7 +1,7 @@
 <templateSet group="Java">
-  <template name="doc" value="/**&#10;* @author $USER$&#10;* @date: $date$ $time$&#10;*/" description="文档注释模板" toReformat="false" toShortenFQNames="true">
-    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="doc" value="/**&#10;* @author $USER$&#10;* @date $date$ $time$&#10;*/" description="Documentation comments" toReformat="true" toShortenFQNames="true">
+    <variable name="USER" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="false" />
   </template>
 </templateSet>
