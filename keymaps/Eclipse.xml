@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse 副本" parent="Eclipse">
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="FindWordAtCaret" />
+</keymap>
