@@ -4,10 +4,10 @@
     <property name="created">2019-09-16T12:53:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2021-08-21T19:46:13</property>
+    <property name="modified">2021-08-21T22:20:46</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
 </scheme>
