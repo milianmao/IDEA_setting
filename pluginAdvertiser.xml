@@ -2327,6 +2327,11 @@
                       <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
+                  <entry key="#com.seventh7.widget.iedis.run.IedisConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Redis Lua Script" pluginName="Iedis" pluginId="com.seventh7.widget.iedis" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="插件" pluginName="Plugin DevKit" pluginId="DevKit" />
@@ -2610,6 +2615,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="JRebel">
+                    <value>
+                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel for IntelliJ" pluginId="JRebelPlugin" />
                     </value>
                   </entry>
                   <entry key="Spring">
